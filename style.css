@@ -1,0 +1,102 @@
+.nav{
+    display: flex;
+    justify-content: center;
+ 
+   
+    
+}
+.nav1{
+width: 500px;
+margin-left:1000px;
+color:rgb(236, 233, 233);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight:bold;
+
+}
+.nav2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.block1{
+    height: 500px;
+    background-image: url("image3.jpg");
+    background-size:100% 100%;
+}
+.names{
+    text-align: center;
+  }
+
+  
+.block2{
+height:500px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.link{
+text-decoration: none;
+color:rgb(236, 233, 233);
+}
+
+.block3{
+    height: 500px;
+    background-color:rgb(4, 5, 12);
+    color:rgb(236, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.subheading{
+    width:900px;
+    text-align:center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.subblock{
+    height: 250px;
+    width: 200px;
+    background-color:rgb(236, 233, 233);
+    margin-left:50px
+}
+
+.project2{
+    width: 1000px;
+    display:block;
+    margin-left: auto;
+margin-right: auto;
+}
+
+
+
+
+.block5{
+    height: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.block6{
+    height: 400px;
+    background-color:rgb(4, 5, 12);
+    color:rgb(236, 233, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.heading1{
+    color:rgb(236, 233, 233);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.project1{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
